@@ -1,0 +1,169 @@
+{
+  "categories": [
+    {
+      "number": "1",
+      "name": "Documentation",
+      "deliverables": [
+        {
+          "number": "1.1",
+          "name": "CRA FAQ",
+          "owner": "FAQ Task Force",
+          "path": "https://github.com/orcwg/cra-hub/blob/main/faq.md",
+          "type": "url"
+        },
+        {
+          "number": "1.2",
+          "name": "Inventory",
+          "owner": "Inventory Task Force",
+          "path": "https://github.com/orcwg/cra-hub/blob/main/inventory.md",
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "name": "Inputs & contributions",
+      "deliverables": [
+        {
+          "number": "2.1",
+          "name": "Input to draft implementing act on product categories",
+          "owner": "Cyber Resilience SIG",
+          "path": "./input-to-draft-regulation-2025-04-18.xlsx",
+          "type": "file"
+        },
+        {
+          "number": "2.2",
+          "name": "Contribution to Vulnerability Handling Standard Clause 4.4",
+          "owner": "Cyber Resilience SIG",
+          "path": "coordination/cen-cenelec-wg-9/deliverable-2-2.md",
+          "type": "text"
+        },
+        {
+          "number": "2.3",
+          "name": "Contribution to open source EU Guidance on open source hardware",
+          "owner": "Open Source Hardware Task Force",
+          "path": "coordination/cra-expert-group/deliverable-2-3.md",
+          "type": "text"
+        },
+        {
+          "number": "2.4",
+          "name": "Contribution to Vulnerability Handling Standard Annex C",
+          "owner": "Vulnerability Handling Task Force",
+          "path": "coordination/cen-cenelec-wg-9/deliverable-2-4.md",
+          "type": "text",
+          "status": "cancelled"
+        },
+        {
+          "number": "2.5",
+          "name": "Comments on CEN/CENELEC PT 1 Standard",
+          "owner": "CEN/CENELEC WG 9 PT 1 liaisons",
+          "path": "coordination/cen-cenelec-wg-9/deliverable-2-5.md",
+          "type": "text"
+        },
+        {
+          "number": "2.6",
+          "name": "Feedback on Cybersecurity Act (CSA) Revision",
+          "owner": "Cyber Resilience SIG",
+          "path": "coordination/enisa/deliverable-2-6.md",
+          "type": "text"
+        },
+        {
+          "number": "2.7",
+          "name": "Comments to EU Guidance on open source",
+          "owner": "CRA Expert Group liaisons",
+          "path": "coordination/cra-expert-group/deliverable-2-7.md",
+          "type": "text"
+        },
+        {
+          "number": "2.8",
+          "name": "Response to the Call for evidence on the revision of the Standardisation Regulation 1025",
+          "owner": "Cyber Resilience SIG",
+          "path": "coordination/european-commission/2025-07-call-for-evidence-1025/deliverable-2-8.md",
+          "type": "text"
+        },
+        {
+          "number": "2.9",
+          "name": "Comments on CEN/CENELEC PT3 Vulnerability Handling Standard",
+          "owner": "Cyber Resilience SIG",
+          "path": "coordination/cen-cenelec-wg-9/deliverable-2-9.md",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "name": "White papers",
+      "deliverables": [
+        {
+          "number": "3.1",
+          "name": "White paper on SBOMs",
+          "owner": "Dedicated task force",
+          "path": "whitepapers/sboms.md",
+          "type": "text"
+        },
+        {
+          "number": "3.2",
+          "name": "White paper on due diligence obligation of manufacturers",
+          "owner": "Dedicated task force",
+          "path": "whitepapers/due-diligence.md",
+          "type": "text"
+        },
+        {
+          "number": "3.3",
+          "name": "White paper on security attestations",
+          "owner": "Dedicated task force",
+          "path": "whitepapers/security-attestations.md",
+          "type": "text"
+        },
+        {
+          "number": "3.4",
+          "name": "White paper on types of open source projects",
+          "owner": "Cyber Resilience SIG",
+          "path": "whitepapers/project-types.md",
+          "type": "text"
+        },
+        {
+          "number": "3.5",
+          "name": "White paper on open source software stewards and CRA",
+          "owner": "Vulnerability Handling Task Force",
+          "path": "whitepapers/stewards-and-cra.md",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "name": "Specifications",
+      "deliverables": [
+        {
+          "number": "4.1",
+          "name": "Vulnerability management specification",
+          "owner": "Cyber Resilience Practices Project",
+          "path": "https://github.com/orcwg/vulnerability-management-spec",
+          "type": "url"
+        },
+        {
+          "number": "4.2",
+          "name": "Specification on principles for cyber resilience for open source development",
+          "owner": "Cyber Resilience Practices Project",
+          "path": "proposed-specs/cyber-resilience-principles.md",
+          "type": "text"
+        },
+        {
+          "number": "4.3",
+          "name": "Specification on generic security requirements for open source components",
+          "owner": "Cyber Resilience Practices Project",
+          "path": "proposed-specs/generic-security-requirements.md",
+          "type": "text"
+        },
+        {
+          "number": "4.4",
+          "name": "Security policy for open source software stewards",
+          "owner": "Cyber Resilience Practices Project",
+          "path": "proposed-specs/security-policy.md",
+          "type": "text"
+        }
+      ]
+    }
+  ]
+}
